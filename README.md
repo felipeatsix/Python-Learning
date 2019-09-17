@@ -1,2 +1,2 @@
 # Python-Learning
-My Python annotations
+My Python notebooks
