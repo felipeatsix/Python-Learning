@@ -1,2 +1,2 @@
 # Python-Learning
-My Python notebooks
+My Python notebooks for learning.
